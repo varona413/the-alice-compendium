@@ -1,3 +1,3 @@
-# the-alice-compendium
+# The Alice Compendium
 
 boo
