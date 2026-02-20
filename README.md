@@ -2,4 +2,4 @@
 
 boo
 
-[sunfish](/blog/1_ocean-sunfish)
+[sunfish](/the-alice-compendium/blog/1_ocean-sunfish)
